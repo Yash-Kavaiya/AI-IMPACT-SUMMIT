@@ -5,6 +5,10 @@
 
 > *From Vision to Action: India Leading the AI Impact Movement!*
 
+## Status
+
+This repository is an archive of India AI Impact Summit 2026 sessions. It is not a product deploy.
+
 The India AI Impact Summit 2026 marks a defining global inflection point — transitioning from dialogue to demonstrable impact. Anchored in the principles of **People, Planet, and Progress**, it envisions a future where AI advances humanity, fosters inclusive growth, and safeguards our shared planet.
 
 ## 🗓️ Schedule
